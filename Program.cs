@@ -11,8 +11,8 @@ namespace RPG
 
             Guerreiro heroi = new Guerreiro("Guerreiro Finer", 2, "Guerreiro");
             Wizard wizard = new Wizard("Mago Paul", 4, "Espadachin");
-            Atirador atirador = new Atirador("Atirador Arley", 7, "Atirador");
-            Ogro ogro = new Ogro("Ogro Barsow", 4, "Ogro");
+            Herois atirador = new Atirador("Atirador Arley", 7, "Atirador");
+            Herois ogro = new Ogro("Ogro Barsow", 4, "Ogro");
 
             //apenas para simplificação, isso poderia ser feito no construtor
             heroi.HP = 100 * heroi.Level;
