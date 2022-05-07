@@ -8,12 +8,7 @@ namespace RPG
     {
         static void Main(string[] args)
         {
-            //H.E.P.A
 
-            //HERANÇA
-            //ENCAPSULAMENTO
-            //POLIMORFISMO
-            //ABSTRAÇÃO
             Guerreiro heroi = new Guerreiro("Guerreiro Finer", 2, "Guerreiro");
             Wizard wizard = new Wizard("Mago Paul", 4, "Espadachin");
             Atirador atirador = new Atirador("Atirador Arley", 7, "Atirador");
