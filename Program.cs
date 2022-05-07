@@ -59,10 +59,12 @@ namespace RPG
                             break;
                         }
                     }
-
-                Console.WriteLine("escolha o personagem que sofrerá o ataque");
+                string heroiSofredor;
+                do {Console.WriteLine("escolha o personagem que sofrerá o ataque (Diferente do que ataca!");
                 Console.WriteLine("1- heroi | 2- wizard | 3- atirador | 4- ogro");
-                    string heroiSofredor = Console.ReadLine();
+                    
+                    heroiSofredor = Console.ReadLine();
+                    }while(heroiSofredor == heroiAtacador);
 
                 switch (heroiSofredor){
                     case "1":{
