@@ -1,0 +1,15 @@
+C:\Users\yagoa\Desktop\arquivos_de_treinamento\11-Csharp\RPG\bin\Debug\net6.0\RPG.exe
+C:\Users\yagoa\Desktop\arquivos_de_treinamento\11-Csharp\RPG\bin\Debug\net6.0\RPG.deps.json
+C:\Users\yagoa\Desktop\arquivos_de_treinamento\11-Csharp\RPG\bin\Debug\net6.0\RPG.runtimeconfig.json
+C:\Users\yagoa\Desktop\arquivos_de_treinamento\11-Csharp\RPG\bin\Debug\net6.0\RPG.dll
+C:\Users\yagoa\Desktop\arquivos_de_treinamento\11-Csharp\RPG\bin\Debug\net6.0\RPG.pdb
+C:\Users\yagoa\Desktop\arquivos_de_treinamento\11-Csharp\RPG\obj\Debug\net6.0\RPG.csproj.AssemblyReference.cache
+C:\Users\yagoa\Desktop\arquivos_de_treinamento\11-Csharp\RPG\obj\Debug\net6.0\RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yagoa\Desktop\arquivos_de_treinamento\11-Csharp\RPG\obj\Debug\net6.0\RPG.AssemblyInfoInputs.cache
+C:\Users\yagoa\Desktop\arquivos_de_treinamento\11-Csharp\RPG\obj\Debug\net6.0\RPG.AssemblyInfo.cs
+C:\Users\yagoa\Desktop\arquivos_de_treinamento\11-Csharp\RPG\obj\Debug\net6.0\RPG.csproj.CoreCompileInputs.cache
+C:\Users\yagoa\Desktop\arquivos_de_treinamento\11-Csharp\RPG\obj\Debug\net6.0\RPG.dll
+C:\Users\yagoa\Desktop\arquivos_de_treinamento\11-Csharp\RPG\obj\Debug\net6.0\refint\RPG.dll
+C:\Users\yagoa\Desktop\arquivos_de_treinamento\11-Csharp\RPG\obj\Debug\net6.0\RPG.pdb
+C:\Users\yagoa\Desktop\arquivos_de_treinamento\11-Csharp\RPG\obj\Debug\net6.0\RPG.genruntimeconfig.cache
+C:\Users\yagoa\Desktop\arquivos_de_treinamento\11-Csharp\RPG\obj\Debug\net6.0\ref\RPG.dll
